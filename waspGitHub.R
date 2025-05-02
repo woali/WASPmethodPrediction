@@ -1,26 +1,15 @@
-#########Artykuł - WASP methodology
-##28.03.2025 zmiana numerów dla modeli
-#tylko symulacja ex ante
+#WASP methodology
 
 library(dplyr)
 library(tibble)
 library(ggplot2)
-#library(magrittr)
-#library(tidyr)
-#library(lme4)
 library(qape)
-#library(statmod)
 library(reshape2)
 library(ks)
 library(e1071)
 library(mgcv)
 library(rpart)
 library(scales)
-#library(cowplot)
-#library(xtable)
-#library(spatstat)
-#library(mvtnorm)
-#library(caret)
 
 
 # Original dataset ----
